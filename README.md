@@ -11,6 +11,10 @@ A SwiftUI-based viewer for inspecting `OSLog` entries directly inside your iOS o
 - 📱 Adaptive layout for both iPhone and iPad
 - 🧱 Built entirely with **SwiftUI**
 
+## 功能预览
+
+![功能预览](preview.gif)
+
 ## Installation
 
 You can add Dependencies to an Xcode project by adding it to your project as a package.
